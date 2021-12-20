@@ -1,0 +1,238 @@
+.bloque-texto-a
+  &.color-especial
+    background-color: #F6F6F6
+    &:before
+      background-color: #12263F
+
+.f-01, .f-02, .f-03, .f-04, .f-05
+  background-size: cover
+  background-position: top center
+.f-01
+  background-image: url(../assets/curso/t1-fondo-01.jpg)
+.f-02
+  background-image: url(../assets/curso/t1-fondo-02.jpg)
+.f-03
+  background-image: url(../assets/curso/t2-fondo.jpg)
+.f-04
+  background-image: url(../assets/curso/t3-fondo.svg)
+.f-05
+  background-image: url(../assets/curso/t3-fondo-02.svg)
+
+
+
+.cep
+  position: relative
+  &__img
+    width: 100%
+  .img-infografica__item__numero
+    color: $white
+  .img-infografica__item
+    width: 3.5%
+  &__dot
+    position: relative
+
+  &__titulo
+    position: absolute
+    top: 50%
+    transform: translateY(-50%)
+    left: 120%
+    opacity: 0
+    transition: opacity .3s ease-in-out
+    h5
+      white-space: nowrap
+      line-height: 1em
+      margin: 0
+
+  .reverse
+    .cep__titulo
+      left: auto
+      right: 120%
+  .show
+    .cep__titulo
+      opacity: 1
+  .img-infografica__item__dot
+    &:before
+      opacity: 1
+
+
+.cep, .img-infografica
+  &__item
+    width: 3.5%
+  .c1
+    .img-infografica__item__dot
+      &:before, &:after
+        background-color: #2594D8
+  .c2
+    .img-infografica__item__dot
+      &:before, &:after
+        background-color: #9CD883
+  .c3
+    .img-infografica__item__dot
+      &:before, &:after
+        background-color: #25D8B6
+  .c4
+    .img-infografica__item__dot
+      &:before, &:after
+        background-color: #24DBE4
+  .c5
+    .img-infografica__item__dot
+      &:before, &:after
+        background-color: #25B6E5
+
+  &__card
+    &.c1
+      background-color: #2594D8
+    &.c2
+      background-color: #9CD883
+    &.c3
+      background-color: #25D8B6
+    &.c4
+      background-color: #24DBE4
+    &.c5
+      background-color: #25B6E5
+
+.cajon.color-acento-botones
+  background-color: #FFECB1
+
+.overlap
+  margin-top: -50px
+
+.linea
+  padding: 15px 0
+  border-top: 1px solid $lightest-gray
+
+.titulo-color
+  display: flex
+  align-items: center
+  justify-content: space-between
+  .titulo
+    padding: 5px 10px
+    *
+      color: $white
+  .flecha
+    width: 60px
+
+  .c1
+    background-color: #2594D8
+  .c2
+    background-color: #9CD883
+  .c3
+    background-color: #25D8B6
+  .c4
+    background-color: #24DBE4
+  .c5
+    background-color: #25B6E5
+
+
+.lista-ul--color li > i:first-of-type
+  color: #2594d8
+
+.fondo-ridiculo, .fondo-ridiculo--2
+  position: relative
+  *
+    position: relative
+  &:before
+    content: ''
+    display: block
+    position: absolute
+    top: 0
+    bottom: 0
+    right: 0
+    left: -100%
+    background-image: linear-gradient(to bottom, #dedede, #e4e4e4, #eaeaea, #f1f1f1, #f7f7f7, #f7f7f7, #f7f7f7, #f7f7f7, #f1f1f1, #eaeaea, #e4e4e4, #dedede)
+.fondo-ridiculo--2
+  &:before
+    background-color: #F6F6F6
+    background-image: none
+    right: -100px
+    left: -100px
+
+
+.fondo-especial
+  background-image: linear-gradient(to bottom, #dedede, #e4e4e4, #eaeaea, #f1f1f1, #f7f7f7, #f7f7f7, #f7f7f7, #f7f7f7, #f1f1f1, #eaeaea, #e4e4e4, #dedede)
+
+.fondo-especial
+
+figure.tarjeta
+  overflow: hidden
+
+
+.linea-tiempo-d__item--selected
+  
+  .linea-tiempo-d__item__content
+      background-color: #EBF6FF
+
+.linea-tiempo-d.color-primario .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
+  background-color: #3DB7EA
+.tarjeta--azul
+  background-color: #E8EEF3
+
+
+
+
+
+.linea-vertical-azul
+  display: flex
+  align-items: stretch
+  &:before
+    content: ''
+    display: block
+    width: 8px
+    margin-right: 15px
+    background: #4dd0e1
+    background: -moz-linear-gradient(top,  #4dd0e1 0%, #039be5 100%)
+    background: -webkit-linear-gradient(top,  #4dd0e1 0%,#039be5 100%)
+    background: linear-gradient(to bottom,  #4dd0e1 0%,#039be5 100%)
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4dd0e1', endColorstr='#039be5',GradientType=0 )
+  & > *
+    flex: 1
+
+
+.dot-xl
+  .img-infografica__item
+    width: 5%
+
+
+.w-50
+  width: 50%
+
+.tarjeta-flip.color-gradiente-azul
+  .tarjeta-flip__img
+    border-bottom-left-radius: 0
+    border-bottom-right-radius: 0
+    background: #4dd0e1
+    background: -moz-linear-gradient(top,  #4dd0e1 0%, #039be5 100%)
+    background: -webkit-linear-gradient(top,  #4dd0e1 0%,#039be5 100%)
+    background: linear-gradient(to bottom,  #4dd0e1 0%,#039be5 100%)
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4dd0e1', endColorstr='#039be5',GradientType=0 )
+    border-bottom: 5px solid #004D91
+  .tarjeta-flip__contenido
+    border-bottom-left-radius: 0
+    border-bottom-right-radius: 0
+    border-bottom: 5px solid #1298D6
+
+.imagen-ifografica-especial
+  .img-infografica__item:nth-of-type(1)
+    .img-infografica__item__dot
+      &:before, &:after
+        background-color: #79DE4F
+        opacity: 1
+  .img-infografica__item:nth-of-type(2)
+    .img-infografica__item__dot
+      &:before, &:after
+        background-color: #1DB4F7
+        opacity: 1
+  .img-infografica__item:nth-of-type(3)
+    .img-infografica__item__dot
+      &:before, &:after
+        background-color: #114769
+        opacity: 1
+
+
+.color-secundario-2
+  background-color: #79DE4F
+
+.color-primario-2
+  background-color: #1DB4F7
+.color-primario-3
+  background-color: #114769
