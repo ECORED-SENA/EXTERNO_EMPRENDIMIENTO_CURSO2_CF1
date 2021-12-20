@@ -23,7 +23,7 @@
       
       separador
 
-      .titulo-segundo.color-acento-botones
+      #t2-1.titulo-segundo.color-acento-botones
         h2 2.1 Tipos de motivación (Hernández, 2014)
 
       p.mb-5 El psicólogo estadounidense McClelland (1961) desarrolló la teoría de las necesidades en la que se presentan tres tipos de necesidades que tenemos los seres humanos en menor o mayor medida y las cuales son la fuente de motivación, y guían a las personas al cumplimiento de los objetivos.
@@ -50,7 +50,7 @@
 
       separador
 
-      .titulo-segundo.color-acento-botones
+      #t2-2.titulo-segundo.color-acento-botones
         h2 2.2 Los sueños y la visión emprendedora juvenil
 
       p Después de conocer las características emprendedoras personales y analizar la motivación para emprender, vamos a conocer qué son los sueños y cómo estos podrán ayudar a moldear tu visión emprendedora.
@@ -93,7 +93,7 @@
 
       separador
 
-      .titulo-segundo.color-acento-botones.mb-3
+      #t2-3.titulo-segundo.color-acento-botones.mb-3
         h2 2.3 Competencias Emprendedoras juveniles
 
     .f-03.py-4.px-4.px-md-5.pb-4.pb-md-5
