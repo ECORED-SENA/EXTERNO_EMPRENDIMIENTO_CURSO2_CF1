@@ -1,1 +1,1 @@
-module.exports = 'Comportamiento del Joven Emprendedor'
+module.exports = 'Elementos de comportamiento del joven emprendedor'
