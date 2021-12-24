@@ -7,7 +7,7 @@
       .titulo-principal.color-acento-botones
         .titulo-principal__numero
           span.texto-blanco 1
-        h1 Características emprendedoras personales juveniles
+        h1 Características del joven emprendedor
 
       
       figure
@@ -105,7 +105,7 @@
               p.mb-0 <b>M</b>edible (<b>M</b>), lo que te permitirá hacer seguimiento y evaluar el cumplimiento de tu meta.
 
             .p-3.text-white(x="23.8%" y="76%")
-              p.mb-0 <b>A</b>lcanzable (<b>A</b>), esto sucede cuando analizar el contexto en el que se define tu meta. 
+              p.mb-0 <b>A</b>lcanzable (<b>A</b>), esto sucede cuando analizas el contenido en el que se define tu meta. 
 
             .p-3.text-white(x="39.5%" y="76%")
               p.mb-0 <b>R</b>ealista (<b>R</b>), para ello debes analizar todo lo que necesitas para definir tu meta, incluyendo todos los recursos económicos, productivos, humanos, tecnológicos, etc.

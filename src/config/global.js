@@ -23,7 +23,7 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Características emprendedoras personales juveniles',
+        titulo: 'Características del joven emprendedor',
         desarrolloContenidos: true,
       },
       {
