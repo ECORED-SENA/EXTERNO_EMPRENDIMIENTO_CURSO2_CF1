@@ -228,7 +228,7 @@
               p.mb-0 Finalmente, es donde se une la situación con el proyecto, pues solo en el contexto actual se pueden llevar a cabo acciones que lo guíen al cumplimiento de sus proyectos. 
 
       p Generalmente las personas tienden a tener uno de los lados del triángulo más largo, es decir, hay personas, que tienden a pensar más de lo que sienten o actúan, o hay personas que actúan sin pensar o sentir.
-      p.mb-0 Ahora, se preguntará, por se llama el triángulo de la responsabilidad, y la palabra “responsabilidad” hace referencia a la habilidad de saber responder, es decir a saber generar un equilibrio en las dimensiones del pensar, sentir y actuar y a asumir el compromiso frente a su comportamiento a partir del contexto que se le presenta para lograr lo que se propone. Ese compromiso surge de esa fuerza interna que lo lleva a actuar.
+      p.mb-0 Ahora, se preguntará, por que se llama el triángulo de la responsabilidad, y la palabra “responsabilidad” hace referencia a la habilidad de saber responder, es decir a saber generar un equilibrio en las dimensiones del pensar, sentir y actuar y a asumir el compromiso frente a su comportamiento a partir del contexto que se le presenta para lograr lo que se propone. Ese compromiso surge de esa fuerza interna que lo lleva a actuar.
 
 
 

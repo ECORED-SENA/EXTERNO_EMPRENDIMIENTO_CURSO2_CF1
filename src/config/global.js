@@ -1,8 +1,8 @@
 export default {
   global: {
-    componenteFormativo: 'Elementos de comportamiento del joven emprendedor',
+    componenteFormativo: 'Competencias del joven emprendedor',
     descripcionCurso:
-      'En esta Unidad de aprendizaje encontrarás los elementos que conforman el comportamiento del joven emprendedor, desarrollados a partir de las investigaciones realizadas por David McClelland en la década de los años 60, desde el campo de la psicología, y basados en la definición de emprendimiento como una actitud que motiva a las personas hacia el logro de objetivos. ',
+      'En este componente formativo encontrarás los elementos que conforman el comportamiento del joven emprendedor, desarrollados a partir de las investigaciones realizadas por David McClelland en la década de los años 60, desde el campo de la psicología, y basados en la definición de emprendimiento como una actitud que motiva a las personas hacia el logro de objetivos. ',
     imagenBannerPrincipal: require('@/assets/curso/inicio.png'),
     fondoBannerPrincipal: require('@/assets/curso/bg.jpg'),
   },
@@ -92,12 +92,6 @@ export default {
     {
       referencia: 'Ariza, C. (2019). Pensar, sentir y actuar. ',
       link: 'https://mejorapsicologia.com/pensar-sentir-actuar/',
-    },
-    {
-      referencia:
-        'CENPROMYPE (s.f.) Proceso de acompañamiento a emprendimientos dinámicos. Caja de herramientas. ',
-      link:
-        'http://cenpromype.synology.me/wordpress/Usb/Caja%20de%20Herramientas%20Emprendimientos%20por%20Oportunidad/LinkedDocuments/Manual%20Participante%20Taller%20de%20Caracteristicas%20Emprendedoras%20PErsonales.pdf',
     },
     {
       referencia:

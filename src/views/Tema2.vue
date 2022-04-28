@@ -94,7 +94,7 @@
       separador
 
       #t2-3.titulo-segundo.color-acento-botones.mb-3
-        h2 2.3 Competencias Emprendedoras juveniles
+        h2 2.3 Competencias emprendedoras juveniles
 
     .f-03.py-4.px-4.px-md-5.pb-4.pb-md-5
       .row.justify-content-center.mb-5

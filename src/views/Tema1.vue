@@ -38,7 +38,7 @@
       .col-lg.pe-4.pe-lg-5.ps-4.ps-md-5
         p Planificar permite organizar los procedimientos, facilita la relación entre los medios y los objetivos para la toma de decisiones coherente e integrada que se ejecutan de forma organizada y sistemática.
         .fondo-ridiculo.py-4.mb-4.pe-4
-          p.mb-0 Cuando planificas puedes hacer seguimiento  y control a los propósitos que deseas alcanzar, lo que te permitirá enrutar y tomar decisiones en el momento preciso. Para ello, es importante que des respuesta a los estos interrogantes: 
+          p.mb-0 Cuando planificas puedes hacer seguimiento  y control a los propósitos que deseas alcanzar, lo que te permitirá enrutar y tomar decisiones en el momento preciso. Para ello, es importante que des respuesta a estos interrogantes: 
         
         .row.justify-content-center
           .col.col-lg-5
@@ -85,14 +85,14 @@
 
       .titulo-color.mb-4
         .titulo.c2
-          h4.mb-0 2 Fijar metas
+          h4.mb-0 2. Fijar metas
         .flecha
           img(src='@/assets/curso/t1-flecha.svg')
       
       .row.justify-content-center
         .col-lg-10
           p Fijar metas es la materialización de los propósitos que deseas alcanzar, para ello debes concentrarte en que tu meta sea medible, alcanzable, realista, específica, acotada y retadora.
-          p.mb-5 Cuando te fijas metas puedes aminorar los riesgos, optimizar los recursos y disminuir los tiempos.s
+          p.mb-5 Cuando te fijas metas puedes aminorar los riesgos, optimizar los recursos y disminuir los tiempos.
 
           h6.text-center Al aplicar la técnica MAREAR cuando fijas tus metas puedas lograr hacerla:
 
@@ -207,7 +207,7 @@
 
       .titulo-color.mb-4
         .titulo.c3
-          h4.mb-0 8. Buscar Información
+          h4.mb-0 8. Buscar información
         .flecha
           img(src='@/assets/curso/t1-flecha.svg')
 
