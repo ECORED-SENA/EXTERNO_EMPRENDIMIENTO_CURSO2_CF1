@@ -30,8 +30,6 @@
       .titulo-color
         .titulo.c1
           h4.mb-0 1. Planificar sistemáticamente
-        .flecha
-          img(src='@/assets/curso/t1-flecha.svg')
 
 
     .row.justify-content-center.mb-5.flex-row-reverse
@@ -86,8 +84,6 @@
       .titulo-color.mb-4
         .titulo.c2
           h4.mb-0 2. Fijar metas
-        .flecha
-          img(src='@/assets/curso/t1-flecha.svg')
       
       .row.justify-content-center
         .col-lg-10
@@ -127,9 +123,6 @@
       .titulo-color.mb-4
         .titulo.c3
           h4.mb-0 3. Crear redes de apoyo
-        .flecha
-          img(src='@/assets/curso/t1-flecha.svg')
-
 
       .row.justify-content-center.align-items-center.mb-5.flex-row-reverse.overflow-hidden
         .col-lg
@@ -144,8 +137,6 @@
       .titulo-color.mb-4
         .titulo.c4
           h4.mb-0 4. Buscar oportunidades y tener iniciativa
-        .flecha
-          img(src='@/assets/curso/t1-flecha.svg')
 
       .row.justify-content-center.align-items-center.mb-5.overflow-hidden
         .col-lg
@@ -159,8 +150,6 @@
       .titulo-color.mb-4
         .titulo.c5
           h4.mb-0 5. Exigir eficiencia y calidad
-        .flecha
-          img(src='@/assets/curso/t1-flecha.svg')
 
       .row.justify-content-center.align-items-center.mb-5.flex-row-reverse.overflow-hidden
         .col-lg
@@ -175,8 +164,6 @@
       .titulo-color.mb-4
         .titulo.c1
           h4.mb-0 6. Tener autoconfianza
-        .flecha
-          img(src='@/assets/curso/t1-flecha.svg')
 
       .row.justify-content-center.align-items-center.mb-5.overflow-hidden
         .col-lg
@@ -190,8 +177,7 @@
       .titulo-color.mb-4
         .titulo.c2
           h4.mb-0 7. Ser persistente
-        .flecha
-          img(src='@/assets/curso/t1-flecha.svg')
+
 
       .row.justify-content-center.align-items-center.mb-5.flex-row-reverse.overflow-hidden
         .col-lg
@@ -208,8 +194,6 @@
       .titulo-color.mb-4
         .titulo.c3
           h4.mb-0 8. Buscar información
-        .flecha
-          img(src='@/assets/curso/t1-flecha.svg')
 
       .row.justify-content-center.align-items-center.mb-5.overflow-hidden
         .col-lg
@@ -223,8 +207,7 @@
       .titulo-color.mb-4
         .titulo.c4
           h4.mb-0 9. Cumplir con los compromisos
-        .flecha
-          img(src='@/assets/curso/t1-flecha.svg')
+
 
       .row.justify-content-center.align-items-center.mb-5.flex-row-reverse.overflow-hidden
         .col-lg
@@ -239,8 +222,7 @@
       .titulo-color.mb-4
         .titulo.c5
           h4.mb-0 10. Tomar riesgos moderados
-        .flecha
-          img(src='@/assets/curso/t1-flecha.svg')
+
 
       .row.justify-content-center.align-items-center.overflow-hidden
         .col-lg

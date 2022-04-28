@@ -48,7 +48,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '2.3',
-            titulo: 'Competencias Emprendedoras juveniles',
+            titulo: 'Competencias emprendedoras juveniles',
             hash: 't2-3',
           },
         ],
